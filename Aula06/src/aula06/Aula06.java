@@ -6,8 +6,8 @@ public class Aula06 {
 		ControleRemoto c = new ControleRemoto(); 
         c.ligar();
         c.maisVolume();
-       // c.ligarMudo();
-        c.play();
+         c.ligarMudo();
+        
         c.abrirMenu();
         c.fecharMenu();
 		
